@@ -1,0 +1,21 @@
+For React
+here are the installs
+npm create vite@latest
+react 
+JavaScript + SWC 
+CD to project
+npm install 
+npm install axios //install only for API //
+npm install react-router-dom 
+
+For Express
+npm init -y
+npm install
+npm start 
+node server.js 
+npm install -g nodemon
+npm install @faker-js/faker // if faker is needed //
+
+
+MongoDB 
+mongo.exe
