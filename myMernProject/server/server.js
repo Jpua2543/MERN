@@ -20,7 +20,7 @@ console.log('MongoDB connected successfully');
 });
 
 const productRoutes = require('./routes/product.routes');
-app.use('/api', productRoutes);
+app.use('/api/products', productRoutes);
 
 app.listen(port, () => {
 console.log(`Server is running on port: ${port}`);
